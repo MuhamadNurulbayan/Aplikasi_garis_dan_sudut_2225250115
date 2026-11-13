@@ -1,0 +1,6 @@
+{
+  "name": "SudutKita — Belajar Garis & Sudut SMP",
+  "description": "Aplikasi web edukasi matematika interaktif materi Garis dan Sudut tingkat SMP berbasis Cognitive Load Theory. Dikembangkan oleh Muhamad Nurul Bayan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
